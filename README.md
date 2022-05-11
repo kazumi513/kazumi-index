@@ -1,5 +1,5 @@
 # Astro Starter Kit: Docs Site
-
+### Kazumi was here lol
 ```bash
 npm init astro -- --template docs
 ```
