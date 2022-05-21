@@ -1,12 +1,12 @@
 ---
-title: Introduction
+title: Kazumi Index
 description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Astro!**
+**Kazumi's Index**
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+Inspired by the [piracy index](https://piracy.vercel.app/) and Free Media Heck Yeah's abundance of resources, I decided to create my personal index based on stuff that I personally use on a near daily or weekly basis to access mostly educational, m
 
 - ✅ **Full Markdown support**
 - ✅ **Responsive mobile-friendly design**
